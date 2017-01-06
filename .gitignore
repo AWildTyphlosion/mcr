@@ -1,3 +1,7 @@
 # No . files. Except this one.
 .*
 /bin/
+
+# Disinclude Typhlosion's stuff.
+*.go 
+
